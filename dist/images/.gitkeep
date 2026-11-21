@@ -1,0 +1,2 @@
+# 将你的游戏截图、老照片或封面图放到这个目录下，
+# 然后在 src/data/timeline.ts 中填写 image: "/images/你的图片.jpg" 即可显示。
